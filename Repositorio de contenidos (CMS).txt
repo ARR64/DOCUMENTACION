@@ -1,0 +1,12 @@
+Repositorio de contenidos (CMS)
+
+Es un lugar donde esta alamacenada info de diversa índole y esa info esta almacenada en ficheros y base datos. Puede ser un lugar real, pendrive, disco duro... asi piues los lugares pueden ser locales y en internet. La diferencia entre un pendrive es que el repositorio guarda info de todas las versiones que has tenido en ese documento, por lo tanto recuerda todas las modificaciones. Además tiene que cumplir una norma RCS (Sistema de Control de Versiones), lo que indica es que ss epueda realizar un seguimineto y control de cada uno d elos ficheros y tener almacenado cada una de las versiones y modificaciones que han suufrido los doocumentos. Un fichero histórico recuerda el que, quien y cuando. Permita la diversa publicación de diversa info de manera facil y rpaida, estructuraada y jerarquica. Tienes que ser separadosegún el tipo de contenido, el bruto admin separado del final, accesible desde una interfaz amigableyy por último bloqueo de registros para que no se pueda modificar dos usuarios a la vez, tb otorgar permisos. 
+Hay una base de datos donde refleja las versiones o modificaciones.
+Hay dos tipos de relaciones. 
+
+
+
+Username: ARR64
+Email address: aidarr64hotmail.com
+Password:Wsda,098123
+https://github.com/ARR64/PROGRAMACION/blob/main/README.md
